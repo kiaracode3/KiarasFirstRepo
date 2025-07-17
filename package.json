@@ -1,0 +1,20 @@
+{
+  "name": "kiarasfirstrepo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "buggy.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiaracode3/KiarasFirstRepo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiaracode3/KiarasFirstRepo/issues"
+  },
+  "homepage": "https://github.com/kiaracode3/KiarasFirstRepo#readme"
+}
