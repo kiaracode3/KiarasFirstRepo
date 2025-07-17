@@ -12,9 +12,7 @@ const storeProds = {
 
 test('returns correct value of mycart', () => {
     expect(totalCart(myCart,storeProds)).toBe(17);
-
+    expect(totalCart(mySecondCart,storeProds)).toBe(9);
 });  
 
-test('returns correct value of mySecondCart', () => {
-    expect(totalCart(mySecondCart,storeProds)).toBe(9);
-});
+
